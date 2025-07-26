@@ -11,7 +11,7 @@ st.set_page_config(
     layout="wide"
 )
 
-st.title("💸 Unlock Your Income Potential with AI-Powered Salary Classifier 💼")
+st.title("💸Explore Smarter Income Insights with AI Assistance 💼")
 
 # Sidebar 
 with st.sidebar:
